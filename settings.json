@@ -1,0 +1,8 @@
+{
+    "name": "testin",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true
+    }
+}
